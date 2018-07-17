@@ -74,3 +74,12 @@ body {
   display: inline-block;
   color: rgba(0,0,0,.5);
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:black;
+  text-align: center;
+  font-size: 0.3rem;
+}
