@@ -28,7 +28,7 @@ window.onload = function() {
     'I\'m currently looking for Job opportunities.<br> You can contact me at <a href="mailto:g.poojagowda122@gmail.com">poojagowda122@gmail.com</a>',
     '<a target="_blank" href="https://twitter.com/Poojagowda122">twitter.com/Poojagowda122</a><br><a target="_blank" href="https://github.com/poojagowda5">github.com/poojagowda5</a>',
     getCurrentTime(),
-    'Pooja 👋.'
+    'Pooja 🍬.'
   ]
 
   var getFontSize = function() {
